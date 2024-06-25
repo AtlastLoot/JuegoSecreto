@@ -1,6 +1,6 @@
 //declaro variables
 let numeroSecreto = 0;
-let numerosPermitidos = 5;
+let numerosPermitidos = 10;
 let intentos = 0;
 let listaNumeroSorteados = [];
 
